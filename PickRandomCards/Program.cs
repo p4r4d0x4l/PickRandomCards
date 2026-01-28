@@ -20,7 +20,7 @@ namespace PickRandomCards
                 {
                     Console.WriteLine(card);
                 }
-                Console.WriteLine();    // tom linje
+                Console.WriteLine();    // tom linje for penere utskrift
             }
             else 
             {
