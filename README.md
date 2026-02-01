@@ -68,7 +68,7 @@ PickRandomCards.csproj
 ## Hvordan kjøre programmet
 
 
-Alternativ 1: Med .NET CLI
+### Alternativ 1: Med .NET CLI
 
 Naviger til prosjektmappen og kjør:
 
@@ -77,7 +77,7 @@ Naviger til prosjektmappen og kjør:
 </pre>
 
 
-Alternativ 2: Via Visual Studio
+### Alternativ 2: Via Visual Studio
 
 1. Åpne prosjektet i Visual Studio
 
